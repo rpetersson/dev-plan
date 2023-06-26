@@ -13,3 +13,8 @@
 - [ ] RHCA (RedHat)
 - [ ] RHCE (RedHat)
 - [ ] RHCSA (RedHat)
+
+## Web3
+
+- [ ] Certified Blockchain Expert: https://www.blockchain-council.org/certifications/certified-blockchain-professional-expert/
+- [ ] Certified Polkadot Expert: https://www.blockchain-council.org/certifications/certified-polkadot-expert/
