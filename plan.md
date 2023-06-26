@@ -13,5 +13,3 @@
 - [ ] RHCA (RedHat)
 - [ ] RHCE (RedHat)
 - [ ] RHCSA (RedHat)
-
-## Swift
